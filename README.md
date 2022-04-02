@@ -1,4 +1,4 @@
-# carshair
+# CarShair
 CarShair mockup app.
 Live search and filter for cars using NHTSA API
 [Click here](http://95.179.240.63:2020/) For live example (Mobile View Only)
@@ -18,3 +18,4 @@ Live search and filter for cars using NHTSA API
 * Use the selectors to filter by vehicle type
 * Scroll the returned results of vehicles 
 
+![Screenshot 1](https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg)
