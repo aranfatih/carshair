@@ -18,4 +18,6 @@ Live search and filter for cars using NHTSA API
 * Use the selectors to filter by vehicle type
 * Scroll the returned results of vehicles 
 
-![Screenshot 1](https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg)
+# Screenshots
+<img src="https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg" style="width: 200px"/>
+<!-- ![Screenshot 1](https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg) -->
