@@ -19,5 +19,8 @@ Live search and filter for cars using NHTSA API
 * Scroll the returned results of vehicles 
 
 # Screenshots
-<img src="https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg" style="width: 200px"/>
-<!-- ![Screenshot 1](https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg) -->
+<div style="display: flex">
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-1.jpg" style="width: 200px"/>
+  <div style="width: 24px"/>
+  <img src="https://smart.brwskagroup.com:2323/public/uploads/carshair-screenshot-2.jpg" style="width: 200px"/>
+</div>
