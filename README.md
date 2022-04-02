@@ -1,7 +1,7 @@
 # CarShair
-CarShair mockup app.
-Live search and filter for cars using NHTSA API
-[Click here](http://95.179.240.63:2020/) For live example (Mobile View Only)
+* CarShair mockup app.
+* Live search and filter for cars using NHTSA API
+* [Click here](http://95.179.240.63:2020/) For live example (Mobile View Only)
 
 # How it works
 
